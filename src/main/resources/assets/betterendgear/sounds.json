@@ -1,0 +1,8 @@
+{
+  "blaze_armor_equip": {
+    "subtitles": "sounds.betterendgear.blaze_armor_equip",
+    "sounds": [
+      "betterendgear:blaze_armor_equip"
+    ]
+  }
+}

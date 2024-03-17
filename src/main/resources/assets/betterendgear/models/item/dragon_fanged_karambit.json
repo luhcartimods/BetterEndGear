@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "betterendgear:item/dragon_fanged_karambit"
+  }
+}

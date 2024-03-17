@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "betterendgear:item/ender_blaze_scale"
+  }
+}

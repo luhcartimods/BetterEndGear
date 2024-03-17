@@ -1,0 +1,5 @@
+// 1.20.1	2024-02-22T11:56:44.1402282	Global Loot Modifiers : betterendgear
+cc6fdbd307418cb656741e9746bd77128a5a833a data/betterendgear/loot_modifiers/dragon_fang_from_ender_dragon.json
+5da5a841bac53282557c0a0eacc5a468c4020c05 data/betterendgear/loot_modifiers/ender_blaze_scale_from_ender_blaze.json
+61e3cd60ef77c33debca46417eccb0ddeb55deb3 data/betterendgear/loot_modifiers/ender_relics_from_enderman.json
+95b87fad0cde528803f8e2c1ed8030cc1078a7a0 data/forge/loot_modifiers/global_loot_modifiers.json

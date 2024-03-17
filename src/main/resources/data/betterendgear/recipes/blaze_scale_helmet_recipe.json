@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Combat",
+  "pattern": [
+    "RRR",
+    "R R",
+    "   "
+  ],
+  "key": {
+    "R": {
+      "item": "betterendgear:blaze_scale"
+    }
+  },
+  "result": {
+    "item": "betterendgear:blaze_scale_helmet"
+  }
+}

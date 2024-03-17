@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Combat",
+  "pattern": [
+    "RR ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "betterendgear:ender_relics"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "betterendgear:ender_hoe"
+  }
+}

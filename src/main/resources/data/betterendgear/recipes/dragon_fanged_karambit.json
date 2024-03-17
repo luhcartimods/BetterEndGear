@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Combat",
+  "pattern": [
+    " F ",
+    " F ",
+    " S "
+  ],
+  "key": {
+    "F": {
+      "item": "betterendgear:dragon_fang"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "betterendgear:dragon_fanged_karambit"
+  }
+}

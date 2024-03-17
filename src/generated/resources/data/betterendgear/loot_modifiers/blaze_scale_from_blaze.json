@@ -1,0 +1,14 @@
+{
+  "type": "betterendgear:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/ender_blaze"
+    },
+    {
+      "chance": 0.1,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "betterendgear:ender_relics"
+}
